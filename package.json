@@ -1,0 +1,17 @@
+<CodeBlock language="json" editable>
+{
+  "name": "barakat-community-bot",
+  "version": "1.0.0",
+  "description": "Barakat Community Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
+</CodeBlock>
