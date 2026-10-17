@@ -1,4 +1,4 @@
-<CodeBlock language="json" editable>
+
 {
   "name": "barakat-community-bot",
   "version": "1.0.0",
@@ -14,4 +14,3 @@
     "discord.js": "^14.19.3"
   }
 }
-</CodeBlock>
